@@ -3,8 +3,8 @@
 Se trata de un combo select que a medida que vas escogiendo, la provincia, departamento y localidad obtienes los datos de la localidad y los estado del clima
 
 
-![Alt Text](img/superior.png);
-![Alt Text](img/inferior.png);
+![Alt Text](img/superior.png)
+![Alt Text](img/inferior.png)
 
 
 > Recursos utilizados
