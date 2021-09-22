@@ -110,7 +110,7 @@ provinciasVista.addEventListener('change', async (event)=>{
 
 
         localidadSeleccionada.addEventListener("change", async(event)=>{
-            let keyapi = "7f12d6fea7948b05fe75cff29ffea63b";
+            let keyapi = //Aqui va la clave de la api dada por onpenweather;
             let nombreDeLocalidad = Object.values(event.target.selectedOptions)[0].text;
             if (nombreDeLocalidad == '') {
                 console.log('Seleccione una localidad');
